@@ -3,7 +3,7 @@
   "category": "building",
   "ingredients": [
     {
-      "item": "tutorialmoc:ruby_block"
+      "item": "tutorialmod:ruby_block"
     }
   ],
   "result": {
